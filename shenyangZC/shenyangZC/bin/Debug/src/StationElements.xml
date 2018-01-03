@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StationElements xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L1" DefaultColor="Red" StationID="0" ID="0" NamePoint="-6.74,-34.1966666666667" Name="D2" TopLeft="100,550.710678118655" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+      <Graphic Type="Circle" Center="-22,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L1" DefaultColor="Red" StationID="0" ID="1" NamePoint="-6.74,-34.1966666666667" Name="D5" TopLeft="100,200" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+      <Graphic Type="Circle" Center="-22,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L1" DefaultColor="Red" StationID="0" ID="2" NamePoint="-5.81666666666667,-34.1966666666667" Name="S1" TopLeft="235.355339059327,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L1" DefaultColor="Red" StationID="0" ID="3" NamePoint="-5.81666666666667,-34.1966666666667" Name="S2" TopLeft="235.355339059327,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="0" ID="4" NamePoint="-5.81666666666667,21" Name="S3" TopLeft="335.355339059327,235.355339059327" RotatePoint="0,0" Angle="45">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="0" ID="5" NamePoint="-5.81666666666667,21" Name="S4" TopLeft="335.355339059327,515.355339059327" RotatePoint="0,0" Angle="-45">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="0" ID="6" NamePoint="-5.81666666666667,21" Name="S5" TopLeft="475.355339059327,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="0" ID="7" NamePoint="-5.81666666666667,21" Name="S6" TopLeft="475.355339059327,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L4引" DefaultColor="Red" StationID="0" ID="8" NamePoint="-5.81666666666667,-34.1966666666667" Name="S7" TopLeft="755.355339059327,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+      <Graphic Type="Circle" Center="-22,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L4引" DefaultColor="Red" StationID="0" ID="9" NamePoint="-5.81666666666667,-34.1966666666667" Name="S8" TopLeft="755.355339059327,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+      <Graphic Type="Circle" Center="-22,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="0" ID="10" NamePoint="-5.81666666666667,21" Name="S9" TopLeft="855.355339059327,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="0" ID="11" NamePoint="-8.74833333333333,21" Name="S10" TopLeft="855.355339059327,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L4引" DefaultColor="Red" StationID="0" ID="12" NamePoint="-8.74833333333333,-34.1966666666667" Name="S11" TopLeft="1235.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+      <Graphic Type="Circle" Center="-22,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L4引" DefaultColor="Red" StationID="0" ID="13" NamePoint="-8.74833333333333,-34.1966666666667" Name="S12" TopLeft="1235.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+      <Graphic Type="Circle" Center="-22,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L2_红绿" DefaultColor="Red" StationID="0" ID="14" NamePoint="-8.74833333333333,-34.1966666666667" Name="S13" TopLeft="1335.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L2_红绿" DefaultColor="Red" StationID="0" ID="15" NamePoint="-8.74833333333333,21" Name="S14" TopLeft="1435.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="0" ID="16" NamePoint="-9.16166666666667,21" Name="SC1" TopLeft="200,200" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="15,12" Radius="7" />
+      <Graphic Type="Line" Point0="0,12" Point1="7,12" />
+      <Graphic Type="Circle" Center="29,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="0" ID="17" NamePoint="-9.16166666666667,21" Name="SC2" TopLeft="200,550.710678118655" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="15,12" Radius="7" />
+      <Graphic Type="Line" Point0="0,12" Point1="7,12" />
+      <Graphic Type="Circle" Center="29,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L4引" DefaultColor="Red" StationID="0" ID="18" NamePoint="-7.79666666666667,-34.1966666666667" Name="SJ1" TopLeft="200,200" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-15,-12" Radius="7" />
+      <Graphic Type="Line" Point0="0,-12" Point1="-7,-12" />
+      <Graphic Type="Circle" Center="-29,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L4引" DefaultColor="Red" StationID="0" ID="19" NamePoint="-7.79666666666667,-34.1966666666667" Name="SJ2" TopLeft="200,550.710678118655" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-15,-12" Radius="7" />
+      <Graphic Type="Line" Point0="0,-12" Point1="-7,-12" />
+      <Graphic Type="Circle" Center="-29,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <RailSwitch SectionName="W0103" SectionID="11" Direction="UpWard" DoubleName="" DoubleID="-1" IsUp="True" IsLeft="True" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="0" ID="0" NamePoint="-65,-18" Name="3" TopLeft="475.355339059327,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="-70,0" />
+      <Graphic Type="Line" Point0="-79,0" Point1="-140,0" />
+      <Graphic Type="Line" Point0="-76.3639610306789,-6.36396103067893" Point1="-140,-70" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0104" SectionID="12" Direction="UpWard" DoubleName="" DoubleID="-1" IsUp="False" IsLeft="True" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="0" ID="1" NamePoint="-65,5" Name="4" TopLeft="475.355339059327,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="-70,0" />
+      <Graphic Type="Line" Point0="-79,0" Point1="-140,0" />
+      <Graphic Type="Line" Point0="-76.3639610306789,6.36396103067893" Point1="-140,70" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0105" SectionID="13" Direction="UpWard" DoubleName="8" DoubleID="5" IsUp="False" IsLeft="False" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="0" ID="2" NamePoint="59,5" Name="5" TopLeft="475.355339059327,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="70,0" />
+      <Graphic Type="Line" Point0="79,0" Point1="140,0" />
+      <Graphic Type="Line" Point0="76.3639610306789,6.36396103067893" Point1="140,70" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0106" SectionID="14" Direction="UpWard" DoubleName="7" DoubleID="4" IsUp="True" IsLeft="False" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="0" ID="3" NamePoint="59,-18" Name="6" TopLeft="475.355339059327,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="70,0" />
+      <Graphic Type="Line" Point0="79,0" Point1="140,0" />
+      <Graphic Type="Line" Point0="76.3639610306789,-6.36396103067893" Point1="140,-70" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0105" SectionID="13" Direction="UpWard" DoubleName="6" DoubleID="3" IsUp="False" IsLeft="True" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="0" ID="4" NamePoint="-65,5" Name="7" TopLeft="755.355339059327,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="-70,0" />
+      <Graphic Type="Line" Point0="-79,0" Point1="-140,0" />
+      <Graphic Type="Line" Point0="-76.3639610306789,6.36396103067893" Point1="-140,70" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0106" SectionID="14" Direction="UpWard" DoubleName="5" DoubleID="2" IsUp="True" IsLeft="True" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="0" ID="5" NamePoint="-65,-18" Name="8" TopLeft="755.355339059327,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="-70,0" />
+      <Graphic Type="Line" Point0="-79,0" Point1="-140,0" />
+      <Graphic Type="Line" Point0="-76.3639610306789,-6.36396103067893" Point1="-140,-70" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0109" SectionID="15" Direction="UpWard" DoubleName="10" DoubleID="7" IsUp="False" IsLeft="True" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="0" ID="6" NamePoint="-65,5" Name="9" TopLeft="1135.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="100,0" Point1="-70,0" />
+      <Graphic Type="Line" Point0="-79,0" Point1="-280,0" />
+      <Graphic Type="Line" Point0="-76.3639610306789,6.36396103067893" Point1="-140,70" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0110" SectionID="16" Direction="UpWard" DoubleName="9" DoubleID="6" IsUp="True" IsLeft="False" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="0" ID="7" NamePoint="53,-18" Name="10" TopLeft="855.355339059327,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="70.0000000000001,0" />
+      <Graphic Type="Line" Point0="79,0" Point1="380.000000000003,0" />
+      <Graphic Type="Line" Point0="76.3639610306789,-6.36396103067893" Point1="140,-70" />
+    </Graphics>
+  </RailSwitch>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="0" ID="0" NamePoint="35,5" Name="T0101" TopLeft="235.355339059327,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="0" ID="1" NamePoint="35,5" Name="T0102" TopLeft="235.355339059327,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="0" ID="2" NamePoint="35,5" Name="T0107" TopLeft="755.355339059327,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="0" ID="3" NamePoint="35,5" Name="T0108" TopLeft="755.355339059327,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="0" ID="4" NamePoint="35,5" Name="T0111" TopLeft="1235.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="0" ID="5" NamePoint="85,5" Name="T0112" TopLeft="1235.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="200,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="0" ID="6" NamePoint="85,5" Name="T0113" TopLeft="1335.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="200,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="0" ID="7" NamePoint="50,5" Name="T0114" TopLeft="200,550.710678118655" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+      <Graphic Type="Line" Point0="100,0" Point1="135.355339059327,-35.3553390593274" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="0" ID="8" NamePoint="50,5" Name="T0115" TopLeft="200,200" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+      <Graphic Type="Line" Point0="100,0" Point1="135.355339059327,35.3553390593274" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="0" ID="9" NamePoint="36,5" Name="ZHG1" TopLeft="100,200" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="0" ID="10" NamePoint="36,5" Name="ZHG2" TopLeft="100,550.710678118655" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <RelayButton PreName="ZYDJ" StationID="0" ID="17" NamePoint="-8.81666666666667,-3" Name="EB0" TopLeft="1350,250" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="SSHJ" StationID="0" ID="18" NamePoint="-8.81666666666667,-3" Name="EB0" TopLeft="770,250" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="ZYDJ" StationID="0" ID="19" NamePoint="-8.81666666666667,-3" Name="EB1" TopLeft="1350,520" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="SSHJ" StationID="0" ID="20" NamePoint="-8.81666666666667,-3" Name="EB1" TopLeft="770,520" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="ZYDJ" StationID="0" ID="21" NamePoint="-10.6066666666667,-3" Name="HD0" TopLeft="1420,250" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="SSHJ" StationID="0" ID="22" NamePoint="-10.6066666666667,-3" Name="HD0" TopLeft="840,250" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="ZYDJ" StationID="0" ID="23" NamePoint="-10.6066666666667,-3" Name="HD1" TopLeft="1420,520" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="SSHJ" StationID="0" ID="24" NamePoint="-10.6066666666667,-3" Name="HD1" TopLeft="840,520" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <PSDoor PreName="ZYDJ" StationID="0" ID="25" NamePoint="0,0" Name="PSD0" TopLeft="1340,225" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="SSHJ" StationID="0" ID="26" NamePoint="0,0" Name="PSD0" TopLeft="760,225" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="ZYDJ" StationID="0" ID="27" NamePoint="0,0" Name="PSD1" TopLeft="1340,495" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="SSHJ" StationID="0" ID="28" NamePoint="0,0" Name="PSD1" TopLeft="760,495" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L2_红绿" DefaultColor="Red" StationID="1" ID="20" NamePoint="-5.81666666666667,-34.1966666666667" Name="S1" TopLeft="1535.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L2_红绿" DefaultColor="Red" StationID="1" ID="21" NamePoint="-5.81666666666667,21" Name="S2" TopLeft="1635.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="1" ID="22" NamePoint="-5.81666666666667,21" Name="S3" TopLeft="1755.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="1" ID="23" NamePoint="-5.81666666666667,21" Name="S4" TopLeft="1735.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L4引" DefaultColor="Red" StationID="1" ID="24" NamePoint="-5.81666666666667,-34.1966666666667" Name="S5" TopLeft="1925.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+      <Graphic Type="Circle" Center="-22,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L4引" DefaultColor="Red" StationID="1" ID="25" NamePoint="-5.81666666666667,-34.1966666666667" Name="S6" TopLeft="1875.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+      <Graphic Type="Circle" Center="-22,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L4引" DefaultColor="Red" StationID="1" ID="26" NamePoint="-5.81666666666667,-34.1966666666667" Name="S7" TopLeft="1995.35533905933,375.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+      <Graphic Type="Circle" Center="-22,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L2_红绿" DefaultColor="Red" StationID="1" ID="27" NamePoint="-5.81666666666667,21" Name="S8" TopLeft="2435.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="1" ID="28" NamePoint="-5.81666666666667,21" Name="S9" TopLeft="2095.35533905933,375.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="1" ID="29" NamePoint="-8.74833333333333,21" Name="S11" TopLeft="2115.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L4引" DefaultColor="Red" StationID="1" ID="30" NamePoint="-8.74833333333333,-34.1966666666667" Name="S13" TopLeft="2235.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+      <Graphic Type="Circle" Center="-22,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L2_红绿" DefaultColor="Red" StationID="1" ID="31" NamePoint="-8.74833333333333,-34.1966666666667" Name="S15" TopLeft="2335.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <RailSwitch SectionName="W0203" SectionID="37" Direction="UpWard" DoubleName="3" DoubleID="10" IsUp="False" IsLeft="False" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="1" ID="8" NamePoint="24,5" Name="1" TopLeft="1805.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="-50,0" Point1="35,0" />
+      <Graphic Type="Line" Point0="44,0" Point1="120,0" />
+      <Graphic Type="Line" Point0="41.3639610306789,6.36396103067893" Point1="70,35" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0206" SectionID="38" Direction="UpWard" DoubleName="" DoubleID="-1" IsUp="True" IsLeft="False" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="1" ID="9" NamePoint="59,-18" Name="2" TopLeft="1735.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="70,0" />
+      <Graphic Type="Line" Point0="79,0" Point1="140,0" />
+      <Graphic Type="Line" Point0="76.3639610306789,-6.36396103067893" Point1="140,-70" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0213" SectionID="39" Direction="UpWard" DoubleName="1" DoubleID="8" IsUp="True" IsLeft="True" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="1" ID="10" NamePoint="-30,-18" Name="3" TopLeft="1945.35533905933,375.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="50,0" Point1="-35,0" />
+      <Graphic Type="Line" Point0="-44,0" Point1="-70,0" />
+      <Graphic Type="Line" Point0="-41.3639610306789,-6.36396103067893" Point1="-70,-35" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0217" SectionID="40" Direction="UpWard" DoubleName="7" DoubleID="12" IsUp="True" IsLeft="False" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="1" ID="11" NamePoint="24,-18" Name="5" TopLeft="2095.35533905933,375.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="35,0" />
+      <Graphic Type="Line" Point0="44,0" Point1="70,0" />
+      <Graphic Type="Line" Point0="41.3639610306789,-6.36396103067892" Point1="70,-35" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0207" SectionID="41" Direction="UpWard" DoubleName="5" DoubleID="11" IsUp="False" IsLeft="True" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="1" ID="12" NamePoint="-30,5" Name="7" TopLeft="2235.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="-35,0" />
+      <Graphic Type="Line" Point0="-44,0" Point1="-120,0" />
+      <Graphic Type="Line" Point0="-41.3639610306789,6.36396103067893" Point1="-70,35" />
+    </Graphics>
+  </RailSwitch>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="1" ID="29" NamePoint="95,5" Name="T0201" TopLeft="1535.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="220,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="1" ID="30" NamePoint="85,5" Name="T0202" TopLeft="1435.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="200,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="1" ID="31" NamePoint="35,5" Name="T0204" TopLeft="1635.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="1" ID="32" NamePoint="80,5" Name="T0205" TopLeft="1925.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="190,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="1" ID="33" NamePoint="265,5" Name="T0208" TopLeft="1875.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="560,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="1" ID="34" NamePoint="35,5" Name="T0209" TopLeft="2235.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="1" ID="35" NamePoint="85,5" Name="T0211" TopLeft="2335.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="200,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="1" ID="36" NamePoint="35,5" Name="T0215" TopLeft="1995.35533905933,375.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <RelayButton PreName="SHJ" StationID="1" ID="42" NamePoint="-8.81666666666667,-3" Name="EB0" TopLeft="2350,250" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="QHJ" StationID="1" ID="43" NamePoint="-8.81666666666667,-3" Name="EB0" TopLeft="1550,250" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="SHJ" StationID="1" ID="44" NamePoint="-8.81666666666667,-3" Name="EB1" TopLeft="2350,520" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="QHJ" StationID="1" ID="45" NamePoint="-8.81666666666667,-3" Name="EB1" TopLeft="1550,520" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="SHJ" StationID="1" ID="46" NamePoint="-10.6066666666667,-3" Name="HD0" TopLeft="2420,250" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="QHJ" StationID="1" ID="47" NamePoint="-10.6066666666667,-3" Name="HD0" TopLeft="1620,250" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="SHJ" StationID="1" ID="48" NamePoint="-10.6066666666667,-3" Name="HD1" TopLeft="2420,520" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="QHJ" StationID="1" ID="49" NamePoint="-10.6066666666667,-3" Name="HD1" TopLeft="1620,520" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <PSDoor PreName="SHJ" StationID="1" ID="50" NamePoint="0,0" Name="PSD0" TopLeft="2340,225" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="QHJ" StationID="1" ID="51" NamePoint="0,0" Name="PSD0" TopLeft="1540,225" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="SHJ" StationID="1" ID="52" NamePoint="0,0" Name="PSD1" TopLeft="2340,495" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="QHJ" StationID="1" ID="53" NamePoint="0,0" Name="PSD1" TopLeft="1540,495" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L2_红绿" DefaultColor="Red" StationID="2" ID="32" NamePoint="-5.81666666666667,-34.1966666666667" Name="S1" TopLeft="2535.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L2_红绿" DefaultColor="Red" StationID="2" ID="33" NamePoint="-5.81666666666667,21" Name="S2" TopLeft="2635.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L2_红绿" DefaultColor="Red" StationID="2" ID="34" NamePoint="-5.81666666666667,-34.1966666666667" Name="S3" TopLeft="2735.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L2_红绿" DefaultColor="Red" StationID="2" ID="35" NamePoint="-5.81666666666667,21" Name="S4" TopLeft="2835.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="2" ID="36" NamePoint="-5.81666666666667,21" Name="S5" TopLeft="3075.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="2" ID="37" NamePoint="-5.81666666666667,21" Name="S6" TopLeft="2935.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L4引" DefaultColor="Red" StationID="2" ID="38" NamePoint="-5.81666666666667,-34.1966666666667" Name="S7" TopLeft="3215.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+      <Graphic Type="Circle" Center="-22,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L4引" DefaultColor="Red" StationID="2" ID="39" NamePoint="-5.81666666666667,-34.1966666666667" Name="S8" TopLeft="3215.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+      <Graphic Type="Circle" Center="-22,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L2_红绿" DefaultColor="Red" StationID="2" ID="40" NamePoint="-8.74833333333333,21" Name="S10" TopLeft="3315.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <RailSwitch SectionName="W0305" SectionID="61" Direction="UpWard" DoubleName="2" DoubleID="14" IsUp="False" IsLeft="True" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="2" ID="13" NamePoint="-65,5" Name="1" TopLeft="3215.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="-70,0" />
+      <Graphic Type="Line" Point0="-79,0" Point1="-140,0" />
+      <Graphic Type="Line" Point0="-76.3639610306789,6.36396103067892" Point1="-140,70" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0308" SectionID="62" Direction="UpWard" DoubleName="1" DoubleID="13" IsUp="True" IsLeft="False" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="2" ID="14" NamePoint="59,-18" Name="2" TopLeft="2935.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="70,0" />
+      <Graphic Type="Line" Point0="79,0" Point1="280,0" />
+      <Graphic Type="Line" Point0="76.3639610306789,-6.36396103067892" Point1="140,-70" />
+    </Graphics>
+  </RailSwitch>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="2" ID="54" NamePoint="85,5" Name="T0301" TopLeft="2535.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="200,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="2" ID="55" NamePoint="85,5" Name="T0302" TopLeft="2435.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="200,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="2" ID="56" NamePoint="155,5" Name="T0303" TopLeft="2735.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="340,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="2" ID="57" NamePoint="85,5" Name="T0304" TopLeft="2635.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="200,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="2" ID="58" NamePoint="35,5" Name="T0306" TopLeft="2835.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="2" ID="59" NamePoint="85,5" Name="T0307" TopLeft="3215.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="200,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="2" ID="60" NamePoint="35,5" Name="T0310" TopLeft="3215.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <RelayButton PreName="ZS" StationID="2" ID="63" NamePoint="-8.81666666666667,-3" Name="EB0" TopLeft="2550,365" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="SXL" StationID="2" ID="64" NamePoint="-8.81666666666667,-3" Name="EB0" TopLeft="2750,365" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="HHL" StationID="2" ID="65" NamePoint="-8.81666666666667,-3" Name="EB0" TopLeft="3230,360" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="ZS" StationID="2" ID="66" NamePoint="-8.81666666666667,-3" Name="EB1" TopLeft="2620,397" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="SXL" StationID="2" ID="67" NamePoint="-8.81666666666667,-3" Name="EB1" TopLeft="2820,397" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="HHL" StationID="2" ID="68" NamePoint="-8.81666666666667,-3" Name="EB1" TopLeft="3300,392" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="ZS" StationID="2" ID="69" NamePoint="-10.6066666666667,-3" Name="HD0" TopLeft="2620,365" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="SXL" StationID="2" ID="70" NamePoint="-10.6066666666667,-3" Name="HD0" TopLeft="2820,365" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="HHL" StationID="2" ID="71" NamePoint="-10.6066666666667,-3" Name="HD0" TopLeft="3300,360" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="ZS" StationID="2" ID="72" NamePoint="-10.6066666666667,-3" Name="HD1" TopLeft="2550,397" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="SXL" StationID="2" ID="73" NamePoint="-10.6066666666667,-3" Name="HD1" TopLeft="2750,397" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="HHL" StationID="2" ID="74" NamePoint="-10.6066666666667,-3" Name="HD1" TopLeft="3230,392" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <PSDoor PreName="ZS" StationID="2" ID="75" NamePoint="0,0" Name="PSD0" TopLeft="2540,340" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="SXL" StationID="2" ID="76" NamePoint="0,0" Name="PSD0" TopLeft="2740,340" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="HHL" StationID="2" ID="77" NamePoint="0,0" Name="PSD0" TopLeft="3220,335" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="ZS" StationID="2" ID="78" NamePoint="0,0" Name="PSD1" TopLeft="2540,410" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="SXL" StationID="2" ID="79" NamePoint="0,0" Name="PSD1" TopLeft="2740,410" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="HHL" StationID="2" ID="80" NamePoint="0,0" Name="PSD1" TopLeft="3220,405" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L2_红绿" DefaultColor="Red" StationID="3" ID="41" NamePoint="-5.81666666666667,-34.1966666666667" Name="S1" TopLeft="3415.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L2_红绿" DefaultColor="Red" StationID="3" ID="42" NamePoint="-5.81666666666667,21" Name="S2" TopLeft="3515.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L1" DefaultColor="Red" StationID="3" ID="43" NamePoint="-5.81666666666667,-34.1966666666667" Name="S3" TopLeft="3565.35533905933,340.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L1" DefaultColor="Red" StationID="3" ID="44" NamePoint="-5.81666666666667,-34.1966666666667" Name="S4" TopLeft="3565.35533905933,410.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="3" ID="45" NamePoint="-5.81666666666667,21" Name="S5" TopLeft="3665.35533905933,340.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="3" ID="46" NamePoint="-5.81666666666667,21" Name="S6" TopLeft="3665.35533905933,410.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="3" ID="47" NamePoint="-5.81666666666667,21" Name="S7" TopLeft="3805.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L4引" DefaultColor="Red" StationID="3" ID="48" NamePoint="-5.81666666666667,21" Name="S8" TopLeft="3805.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+      <Graphic Type="Circle" Center="22,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L4引" DefaultColor="Red" StationID="3" ID="49" NamePoint="-5.81666666666667,-34.1966666666667" Name="S9" TopLeft="3975.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+      <Graphic Type="Circle" Center="-22,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L4引" DefaultColor="Red" StationID="3" ID="50" NamePoint="-8.74833333333333,-34.1966666666667" Name="S10" TopLeft="3975.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+      <Graphic Type="Circle" Center="-22,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="True" IsLeft="True" IOType="L2_红绿" DefaultColor="Red" StationID="3" ID="51" NamePoint="-8.74833333333333,-34.1966666666667" Name="S11" TopLeft="4175.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,-5" Point1="0,-19" />
+      <Graphic Type="Circle" Center="-8,-12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L2_红绿" DefaultColor="Red" StationID="3" ID="52" NamePoint="-8.74833333333333,21" Name="S12" TopLeft="4075.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <Signal IsSingleMode="False" IsUp="False" IsLeft="False" IOType="L2_红绿" DefaultColor="Red" StationID="3" ID="53" NamePoint="-8.74833333333333,21" Name="S14" TopLeft="4275.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,5" Point1="0,19" />
+      <Graphic Type="Circle" Center="8,12" Radius="7" />
+    </Graphics>
+  </Signal>
+  <RailSwitch SectionName="W0411" SectionID="90" Direction="UpWard" DoubleName="4" DoubleID="18" IsUp="False" IsLeft="False" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="3" ID="15" NamePoint="24,5" Name="1" TopLeft="3715.35533905933,340.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="-50,0" Point1="35,0" />
+      <Graphic Type="Line" Point0="44,0" Point1="70,0" />
+      <Graphic Type="Line" Point0="41.3639610306789,6.36396103067893" Point1="70,35" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0414" SectionID="91" Direction="UpWard" DoubleName="3" DoubleID="17" IsUp="True" IsLeft="False" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="3" ID="16" NamePoint="24,-18" Name="2" TopLeft="3715.35533905933,410.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="-50,0" Point1="35,0" />
+      <Graphic Type="Line" Point0="44,0" Point1="70,0" />
+      <Graphic Type="Line" Point0="41.3639610306789,-6.36396103067893" Point1="70,-35" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0411" SectionID="90" Direction="UpWard" DoubleName="2" DoubleID="16" IsUp="False" IsLeft="True" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="3" ID="17" NamePoint="-30,5" Name="3" TopLeft="3855.35533905933,340.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="-35,0" />
+      <Graphic Type="Line" Point0="-44,0" Point1="-70,0" />
+      <Graphic Type="Line" Point0="-41.3639610306789,6.36396103067893" Point1="-70,35" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0414" SectionID="91" Direction="UpWard" DoubleName="1" DoubleID="15" IsUp="True" IsLeft="True" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="3" ID="18" NamePoint="-30,-18" Name="4" TopLeft="3855.35533905933,410.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="-35,0" />
+      <Graphic Type="Line" Point0="-44,0" Point1="-70,0" />
+      <Graphic Type="Line" Point0="-41.3639610306789,-6.36396103067893" Point1="-70,-35" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0503" SectionID="92" Direction="UpWard" DoubleName="" DoubleID="-1" IsUp="False" IsLeft="True" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="3" ID="19" NamePoint="-30,5" Name="5" TopLeft="3925.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="50,0" Point1="-35,0" />
+      <Graphic Type="Line" Point0="-44,0" Point1="-120,0" />
+      <Graphic Type="Line" Point0="-41.3639610306789,6.36396103067893" Point1="-70,35" />
+    </Graphics>
+  </RailSwitch>
+  <RailSwitch SectionName="W0406" SectionID="93" Direction="UpWard" DoubleName="" DoubleID="-1" IsUp="True" IsLeft="True" NormalDistance="25" ReverseDistance="25" Sections="0," Normals="1," Reverses="2," StationID="3" ID="20" NamePoint="-30,-18" Name="6" TopLeft="3925.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="50,0" Point1="-35,0" />
+      <Graphic Type="Line" Point0="-44,0" Point1="-120,0" />
+      <Graphic Type="Line" Point0="-41.3639610306789,-6.36396103067893" Point1="-70,-35" />
+    </Graphics>
+  </RailSwitch>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="3" ID="81" NamePoint="180,5" Name="T0401" TopLeft="3415.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="390,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="3" ID="82" NamePoint="85,5" Name="T0402" TopLeft="3315.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="200,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="3" ID="83" NamePoint="130,5" Name="T0404" TopLeft="3515.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="290,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="3" ID="84" NamePoint="85,5" Name="T0405" TopLeft="3975.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="200,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="3" ID="85" NamePoint="35,5" Name="T0407" TopLeft="4175.35533905933,305.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="3" ID="86" NamePoint="35,5" Name="T0408" TopLeft="3975.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="3" ID="87" NamePoint="35,5" Name="T0409" TopLeft="3565.35533905933,340.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="1" Distance="120" Direction="UpWard" StationID="3" ID="88" NamePoint="85,5" Name="T0410" TopLeft="4075.35533905933,445.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="200,0" />
+    </Graphics>
+  </Section>
+  <Section LogicCount="2" Distance="120" Direction="UpWard" StationID="3" ID="89" NamePoint="35,5" Name="T0412" TopLeft="3565.35533905933,410.355339059327" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="100,0" />
+    </Graphics>
+  </Section>
+  <RelayButton PreName="ZGJ" StationID="3" ID="94" NamePoint="-8.81666666666667,-3" Name="EB0" TopLeft="3990,360" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="QGJ" StationID="3" ID="95" NamePoint="-8.81666666666667,-3" Name="EB0" TopLeft="4190,365" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="HHBJ" StationID="3" ID="96" NamePoint="-8.81666666666667,-3" Name="EB0" TopLeft="3430,365" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="ZGJ" StationID="3" ID="97" NamePoint="-8.81666666666667,-3" Name="EB1" TopLeft="4060,392" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="QGJ" StationID="3" ID="98" NamePoint="-8.81666666666667,-3" Name="EB1" TopLeft="4260,397" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="HHBJ" StationID="3" ID="99" NamePoint="-8.81666666666667,-3" Name="EB1" TopLeft="3500,397" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="ZGJ" StationID="3" ID="100" NamePoint="-10.6066666666667,-3" Name="HD0" TopLeft="4060,360" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="QGJ" StationID="3" ID="101" NamePoint="-10.6066666666667,-3" Name="HD0" TopLeft="4260,365" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="HHBJ" StationID="3" ID="102" NamePoint="-10.6066666666667,-3" Name="HD0" TopLeft="3500,365" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="ZGJ" StationID="3" ID="103" NamePoint="-10.6066666666667,-3" Name="HD1" TopLeft="3990,392" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="QGJ" StationID="3" ID="104" NamePoint="-10.6066666666667,-3" Name="HD1" TopLeft="4190,397" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <RelayButton PreName="HHBJ" StationID="3" ID="105" NamePoint="-10.6066666666667,-3" Name="HD1" TopLeft="3430,397" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="-7,-19,14,14" />
+    </Graphics>
+  </RelayButton>
+  <PSDoor PreName="ZGJ" StationID="3" ID="106" NamePoint="0,0" Name="PSD0" TopLeft="3980,335" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="QGJ" StationID="3" ID="107" NamePoint="0,0" Name="PSD0" TopLeft="4180,340" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="HHBJ" StationID="3" ID="108" NamePoint="0,0" Name="PSD0" TopLeft="3420,340" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="ZGJ" StationID="3" ID="109" NamePoint="0,0" Name="PSD1" TopLeft="3980,405" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="QGJ" StationID="3" ID="110" NamePoint="0,0" Name="PSD1" TopLeft="4180,410" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <PSDoor PreName="HHBJ" StationID="3" ID="111" NamePoint="0,0" Name="PSD1" TopLeft="3420,410" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Line" Point0="0,0" Point1="30,0" />
+      <Graphic Type="Line" Point0="30,0" Point1="60,0" />
+      <Graphic Type="Line" Point0="60,0" Point1="90,0" />
+    </Graphics>
+  </PSDoor>
+  <Station Section_0="T0107" Section_1="" Name="SSHJ" TopLeft="755,220" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="0,0,100,40" />
+    </Graphics>
+  </Station>
+  <Station Section_0="" Section_1="T0108" Name="SSHJ" TopLeft="755,490" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="0,0,100,40" />
+    </Graphics>
+  </Station>
+  <GraphicElement Name="十三号街站" TopLeft="755,170" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="十三号街站" FontName="微软雅黑" Size="20" ForeColor="White" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <Station Section_0="T0113" Section_1="" Name="ZYDJ" TopLeft="1335,220" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="0,0,100,40" />
+    </Graphics>
+  </Station>
+  <Station Section_0="" Section_1="T0112" Name="ZYDJ" TopLeft="1335,490" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="0,0,100,40" />
+    </Graphics>
+  </Station>
+  <GraphicElement Name="中央大街站" TopLeft="1335,170" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="中央大街站" FontName="微软雅黑" Size="20" ForeColor="White" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <Station Section_0="T0201" Section_1="" Name="QHJ" TopLeft="1535,220" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="0,0,100,40" />
+    </Graphics>
+  </Station>
+  <Station Section_0="" Section_1="T0202" Name="QHJ" TopLeft="1535,490" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="0,0,100,40" />
+    </Graphics>
+  </Station>
+  <GraphicElement Name="七号街站" TopLeft="1545,170" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="七号街站" FontName="微软雅黑" Size="20" ForeColor="White" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <Station Section_0="T0211" Section_1="" Name="SHJ" TopLeft="2335,220" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="0,0,100,40" />
+    </Graphics>
+  </Station>
+  <Station Section_0="" Section_1="T0208" Name="SHJ" TopLeft="2335,490" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="0,0,100,40" />
+    </Graphics>
+  </Station>
+  <GraphicElement Name="张士站" TopLeft="2555,170" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="张士站" FontName="微软雅黑" Size="20" ForeColor="White" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="四号街站" TopLeft="2345,170" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="四号街站" FontName="微软雅黑" Size="20" ForeColor="White" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="沈新路站" TopLeft="2745,170" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="沈新路站" FontName="微软雅黑" Size="20" ForeColor="White" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <Station Section_0="T0301" Section_1="T0302" Name="ZS" TopLeft="2535,335" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="0,0,100,80" />
+    </Graphics>
+  </Station>
+  <Station Section_0="T0303" Section_1="T0304" Name="SXL" TopLeft="2735,335" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="0,0,100,80" />
+    </Graphics>
+  </Station>
+  <Station Section_0="T0307" Section_1="T0310" Name="HHL" TopLeft="3215,330" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="0,0,100,80" />
+    </Graphics>
+  </Station>
+  <Station Section_0="T0401" Section_1="T0402" Name="HHBJ" TopLeft="3415,335" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="0,0,100,80" />
+    </Graphics>
+  </Station>
+  <GraphicElement Name="黄海路站" TopLeft="3225,170" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="黄海路站" FontName="微软雅黑" Size="20" ForeColor="White" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="洪湖北街站" TopLeft="3415,170" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="洪湖北街站" FontName="微软雅黑" Size="20" ForeColor="White" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <Station Section_0="T0405" Section_1="T0408" Name="ZGJ" TopLeft="3975,330" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="0,0,100,80" />
+    </Graphics>
+  </Station>
+  <GraphicElement Name="重工街站" TopLeft="3985,170" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="重工街站" FontName="微软雅黑" Size="20" ForeColor="White" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <Station Section_0="T0407" Section_1="T0410" Name="QGJ" TopLeft="4175,335" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Rectangle" Rect="0,0,100,80" />
+    </Graphics>
+  </Station>
+  <GraphicElement Name="启工街站" TopLeft="4185,170" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="启工街站" FontName="微软雅黑" Size="20" ForeColor="White" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0103" TopLeft="385,310" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0103" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0104" TopLeft="385,425" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0104" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0106" TopLeft="600,450" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0106" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0105" TopLeft="600,285" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0105" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0109" TopLeft="1045,285" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0109" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="NULL" TopLeft="915,450" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0110" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0203" TopLeft="1825,285" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0203" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0206" TopLeft="1795,450" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0206" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0207" TopLeft="2150,285" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0207" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0213" TopLeft="1900,380" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0213" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0217" TopLeft="2140,380" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0217" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0305" TopLeft="3125,285" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0305" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0308" TopLeft="2995,450" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0308" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0503" TopLeft="3870,285" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0503" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0406" TopLeft="3870,450" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0406" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0414" TopLeft="3770,415" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0414" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+  <GraphicElement Name="W0411" TopLeft="3760,325" RotatePoint="0,0" Angle="0">
+    <Graphics>
+      <Graphic Type="Label" Text="W0411" FontName="微软雅黑" Size="10" ForeColor="Silver" TextPoint="0,0" />
+    </Graphics>
+  </GraphicElement>
+</StationElements>

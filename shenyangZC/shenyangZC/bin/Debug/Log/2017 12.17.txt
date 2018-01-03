@@ -1,0 +1,116 @@
+Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+20 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3
+Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{1(2}3(2}2(1}}Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)3(2)2(1)  }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+100 TailPosition：T0114+100 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+20 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:32 EndMA:T0107 NumOfObstacle:3{  1(2)  3(2)  2(1)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+20 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:57 EndMA:T0303 NumOfObstacle:8{  W0104-4(2)  W0106-6(2)  W0105-5(1)  W0109-9(1)  W0203-1(2)  W0213-3(2)  W0217-5(2)  W0207-7(2)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+20 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:57 EndMA:T0303 NumOfObstacle:8{  W0104-4(2)  W0106-6(2)  W0105-5(1)  W0109-9(1)  W0203-1(2)  W0213-3(2)  W0217-5(2)  W0207-7(2)    }Receive from ATP:
+NID_Train：1 NC_Train：AskMA HeadPosition：T0114+20 TailPosition：T0114+20 Speed:10 Direction:Up PSDoor:Close
+Send to ATP:
+NC_ZC:1 MALength:57 EndMA:T0303 NumOfObstacle:8{  W0104-4(2)  W0106-6(2)  W0105-5(1)  W0109-9(1)  W0203-1(2)  W0213-3(2)  W0217-5(2)  W0207-7(2)  }

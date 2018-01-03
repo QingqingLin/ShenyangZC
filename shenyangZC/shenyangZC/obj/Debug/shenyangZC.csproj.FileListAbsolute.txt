@@ -1,0 +1,157 @@
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe.config
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csprojResolveAssemblyReference.cache
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.g.cs
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\App.g.cs
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.cache
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.lref
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.pdb
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.baml
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.g.resources
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.Properties.Resources.resources
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csproj.GenerateResource.Cache
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.exe
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.pdb
+C:\Users\Qing\Desktop\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\线路绘图工具.exe
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csprojResolveAssemblyReference.cache
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.g.cs
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\App.g.cs
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.cache
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.lref
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.exe
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.pdb
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe.config
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.pdb
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\线路绘图工具.exe
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.baml
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.g.resources
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.Properties.Resources.resources
+C:\Users\LQQ\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csproj.GenerateResource.Cache
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe.config
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.exe
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.pdb
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.pdb
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\线路绘图工具.exe
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csprojResolveAssemblyReference.cache
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.g.cs
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\App.g.cs
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.cache
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.lref
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.baml
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.g.resources
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.Properties.Resources.resources
+C:\Users\Qing\Desktop\沈阳ZC\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csproj.GenerateResource.Cache
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe.config
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.exe
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.pdb
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.pdb
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\线路绘图工具.exe
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.g.cs
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\App.g.cs
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.cache
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.lref
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.baml
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.g.resources
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.Properties.Resources.resources
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csproj.GenerateResource.Cache
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe.config
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.exe
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.pdb
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.pdb
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\线路绘图工具.exe
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csprojResolveAssemblyReference.cache
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.g.cs
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\App.g.cs
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.cache
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.lref
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.baml
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.g.resources
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.Properties.Resources.resources
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csproj.GenerateResource.Cache
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\ZCToATS.dll
+C:\Users\LQQ\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\ZCToATS.dll
+C:\Users\Qing\Desktop\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csprojResolveAssemblyReference.cache
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe.config
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.exe
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.pdb
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.pdb
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\ZCToATS.dll
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\线路绘图工具.exe
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csprojResolveAssemblyReference.cache
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.g.cs
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\App.g.cs
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.cache
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.lref
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.baml
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.g.resources
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.Properties.Resources.resources
+K:\沈阳的一套\沈阳ZC - 副本\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csproj.GenerateResource.Cache
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe.config
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.exe
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.pdb
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.pdb
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\ZCToATS.dll
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\线路绘图工具.exe
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csprojResolveAssemblyReference.cache
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.g.cs
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\App.g.cs
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.cache
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.lref
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.baml
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.g.resources
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.Properties.Resources.resources
+C:\Users\Li\Desktop\lqq(1)\lqq\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csproj.GenerateResource.Cache
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe.config
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.exe
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.pdb
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.pdb
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\ZCToATS.dll
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\线路绘图工具.exe
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csprojResolveAssemblyReference.cache
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.g.cs
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\App.g.cs
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.cache
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.lref
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.baml
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.g.resources
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.Properties.Resources.resources
+L:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csproj.GenerateResource.Cache
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe.config
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.exe
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.pdb
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.pdb
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\ZCToATS.dll
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\线路绘图工具.exe
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csprojResolveAssemblyReference.cache
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.g.cs
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\App.g.cs
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.cache
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.lref
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.baml
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.g.resources
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.Properties.Resources.resources
+E:\沈阳的一套\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csproj.GenerateResource.Cache
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe.config
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.exe
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.pdb
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.exe
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\shenyangZC.pdb
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\ZCToATS.dll
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\bin\Debug\线路绘图工具.exe
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csprojResolveAssemblyReference.cache
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.g.cs
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\App.g.cs
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.cache
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC_MarkupCompile.lref
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\MainWindow.baml
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.g.resources
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.Properties.Resources.resources
+C:\Users\LQQ\Desktop\沈阳现场修改\沈阳ZC - 现场修改多网卡情况\沈阳ZC\shenyangZC\shenyangZC\obj\Debug\shenyangZC.csproj.GenerateResource.Cache
